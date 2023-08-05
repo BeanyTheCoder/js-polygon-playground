@@ -4,11 +4,11 @@ A script that can be used to calculate properties of polygons 🔥🔥
 
 ## Features ✨
 
-- Ability to find:
+- Change the number of sides and the script will find:
   - Sum of interior angles
   - A single interior angle
   - A single exterior angle
-  - The name of the polygon(these only go up to 12)
+  - The name of the polygon (these only go up to 12)
 
 ## Installation & Usage 🛠️
 
